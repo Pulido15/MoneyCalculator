@@ -1,0 +1,11 @@
+CAD, Canadian dollar,  $
+L, Albanian lek, Albania
+ARS, Argentine peso, $
+BRL, Brazilian real, R$
+CUC, Cuban peso, $
+HRK, Croatian kuna, kn
+EUR, Euro, €
+USD, United States dollar, $
+GBP, British pound, £
+CHF, Swiss franc, Fr
+SEK, Swedish krona, kr
